@@ -1,0 +1,5 @@
+export { clamp } from './utils/clamp'
+export { lerp } from './utils/lerp'
+export { map } from './utils/map'
+export { mod } from './utils/mod'
+export { norm } from './utils/norm'
